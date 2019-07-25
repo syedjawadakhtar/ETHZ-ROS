@@ -1,0 +1,8 @@
+prefix=/home/bon2die/Ethz-ros/devel/.private/husky_high_level_controller
+
+Name: husky_high_level_controller
+Description: Description of husky_high_level_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/bon2die/Ethz-ros/devel/.private/husky_high_level_controller/lib 
+Requires: 

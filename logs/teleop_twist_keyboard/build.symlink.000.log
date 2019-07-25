@@ -1,0 +1,3 @@
+Symlinking /home/bon2die/Ethz-ros/devel/lib/pkgconfig/teleop_twist_keyboard.pc
+Symlinking /home/bon2die/Ethz-ros/devel/share/teleop_twist_keyboard/cmake/teleop_twist_keyboardConfig-version.cmake
+Symlinking /home/bon2die/Ethz-ros/devel/share/teleop_twist_keyboard/cmake/teleop_twist_keyboardConfig.cmake

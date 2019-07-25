@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bon2die/Ethz-ros/devel/.private/husky_high_level_controller/setup.sh

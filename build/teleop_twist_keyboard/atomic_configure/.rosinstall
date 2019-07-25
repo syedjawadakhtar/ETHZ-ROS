@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bon2die/Ethz-ros/devel/.private/teleop_twist_keyboard/setup.sh

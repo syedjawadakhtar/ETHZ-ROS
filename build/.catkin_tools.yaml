@@ -1,0 +1,6 @@
+devel_space: /home/bon2die/Ethz-ros/devel
+install: false
+install_space: /home/bon2die/Ethz-ros/install
+profile: default
+source_space: /home/bon2die/Ethz-ros/src
+workspace: /home/bon2die/Ethz-ros
