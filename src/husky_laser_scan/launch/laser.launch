@@ -1,0 +1,4 @@
+<launch>
+	<node pkg = "husky_laser_values" type="scan.py" name = "las_scan" output = "screen">
+	</node>
+</launch>
